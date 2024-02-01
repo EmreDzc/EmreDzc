@@ -1,6 +1,6 @@
 ### Hi there 👋, Emre Duzcu
 #### Computer Engineering Student
-I am a Computer engineer student in Turkey. I like to do the project. I am a person who knows languages such as Java, C, SQL and I like to do the project in Java.
+I am a Computer engineer student in Turkey. I like to do the projects. I am a person who knows languages such as Java, C, SQL and I like to do the project in Java.
 
 Skills: JAVA / C / SQL
 
